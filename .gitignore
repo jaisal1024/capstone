@@ -1,0 +1,25 @@
+# python
+*.py[cod]
+__pycache__/
+
+# virtualenv
+env/
+env.sh
+
+# data
+RAW_DATA/
+ENG_DATA/
+
+# os
+.DS_Store
+Icon?
+
+# ide
+.vscode
+*.swp
+
+# log files
+*.log
+
+#Jupyter Notebooks
+*.ipynb_checkpoints
