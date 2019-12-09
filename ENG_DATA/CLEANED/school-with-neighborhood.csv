@@ -1,0 +1,535 @@
+,gsId,name,type,enrollment,gsRating,parentRating,district,address,lat,lon,geometry,neighborhood
+0,25079,Academy Of Arts And Sciences,public,318.0,4.0,2.0,San Francisco Unified School District,"555 Portola Drive, 
+San Francisco, CA  94131",37.745872,-122.44998000000001,POINT (-122.44998 37.745872),Glen Park
+1,9563,Adda Clevenger School,private,124.0,5.396694214876033,4.0,,"180 Fair Oaks Street, 
+San Francisco, CA  94110",37.7537,-122.42452,POINT (-122.42452 37.7537),Dolores Heights
+2,6335,Alamo Elementary School,public,535.0,8.0,5.0,San Francisco Unified School District,"250 23rd Avenue, 
+San Francisco, CA  94121",37.783122999999996,-122.48218999999999,POINT (-122.48219 37.783123),Outer Richmond
+4,26947,AltSchool - Dogpatch,private,60.0,5.396694214876033,5.0,,"2265 3rd Street and 610 20th Street, 
+San Francisco, CA  94107",37.760956,-122.3883,POINT (-122.3883 37.760956),Dogpatch
+5,27287,AltSchool - SOMA,private,30.0,5.396694214876033,4.183673469387755,,"1245 Folsom Street, 
+San Francisco, CA  94105",37.77418,-122.41048400000001,POINT (-122.410484 37.77418),South of Market
+6,31701,AltSchool Alamo Square,private,50.0,5.396694214876033,4.183673469387755,,"735 Fell St, 
+San Francisco, CA  94117",37.7747,-122.43015,POINT (-122.43015 37.7747),Lower Haight
+7,31700,AltSchool Fort Mason,private,70.0,5.396694214876033,4.183673469387755,,"3741 Buchanan St, 
+San Francisco, CA  94123",37.804559999999995,-122.43391000000001,POINT (-122.43391 37.80456),Marina
+8,31702,AltSchool SOMA,private,25.0,5.396694214876033,4.183673469387755,,"1245 folsom st, 
+San Francisco, CA  94103",37.77418,-122.41048400000001,POINT (-122.410484 37.77418),South of Market
+9,31718,AltSchool Yerba Buena,private,90.0,5.396694214876033,4.183673469387755,,"300 4th St, 
+San Francisco, CA  94107",37.78176,-122.4012,POINT (-122.4012 37.78176),South of Market
+11,25495,Alta Vista School,private,278.0,5.396694214876033,5.0,,"450 Somerset Street, 
+San Francisco, CA  94134",37.725716,-122.40782,POINT (-122.40782 37.725716),Portola
+12,31532,"Altschool, Inc.",private,379.1877551020408,5.396694214876033,4.183673469387755,,"2265 3rd Street, 
+San Francisco, CA  94107",37.760956,-122.3883,POINT (-122.3883 37.760956),Dogpatch
+13,6336,Alvarado Elementary School,public,508.0,6.0,4.0,San Francisco Unified School District,"625 Douglas Street, 
+San Francisco, CA  94114",37.753674,-122.43873,POINT (-122.43873 37.753674),Upper Market
+14,31671,Amici World School,private,8.0,5.396694214876033,5.0,,"3627 Broderick Street, 
+San Francisco, CA  94123",37.803875,-122.44571,POINT (-122.44571 37.803875),Marina
+15,6337,Aptos Middle School,public,1000.0,7.0,4.0,San Francisco Unified School District,"105 Aptos Avenue, 
+San Francisco, CA  94127",37.730232,-122.46623000000001,POINT (-122.46623 37.730232),Balboa Terrace
+16,8106,Archbishop Riordan High School,private,680.0,5.396694214876033,4.0,,"175 Phelan Avenue, San Francisco, CA 94112, 
+San Francisco, CA  94112",37.728203,-122.45363600000002,POINT (-122.453636 37.728203),Westwood Park
+17,6338,Argonne Elementary School,public,430.0,7.0,4.0,San Francisco Unified School District,"680 18th Avenue, 
+San Francisco, CA  94121",37.77515,-122.47679,POINT (-122.47679 37.77515),Inner Richmond
+18,6339,"Asawa (Ruth) San Francisco School Of The Arts, A Public School.",public,614.0,8.0,4.0,San Francisco Unified School District,"555 Portola Drive, 
+San Francisco, CA  94131",37.745872,-122.44998000000001,POINT (-122.44998 37.745872),Glen Park
+20,16584,Bais Menachem Yeshiva Day School,private,60.0,5.396694214876033,3.0,,"834 28th Avenue, 
+San Francisco, CA  94121",37.7736,-122.48718999999998,POINT (-122.48719 37.7736),Outer Richmond
+21,6340,Balboa High School,public,1260.0,6.0,4.0,San Francisco Unified School District,"1000 Cayuga Avenue, 
+San Francisco, CA  94112",37.722072999999995,-122.43985,POINT (-122.43985 37.72207299999999),Cayuga
+22,32187,Brown Jr. (Willie L) Middle,public,201.0,1.0,4.183673469387755,San Francisco Unified School District,"2055 Silver Avenue, 
+San Francisco, CA  94122",37.735912,-122.39968999999999,POINT (-122.39969 37.735912),Silver Terrace
+23,6341,Bryant Elementary School,public,216.0,3.0,4.0,San Francisco Unified School District,"2641 25th Street, 
+San Francisco, CA  94110",37.75163,-122.4049,POINT (-122.4049 37.75163),Potrero Hill
+24,6399,Buena Vista/ Horace Mann K-8,public,557.0,3.0,4.0,San Francisco Unified School District,"3351 23rd Street, 
+San Francisco, CA  94110",37.753716,-122.41973999999999,POINT (-122.41974 37.753716),Mission
+26,8714,Burt Children's Center,private,379.1877551020408,5.396694214876033,1.0,,"940 Grove St, 
+San Francisco, CA  94117",37.77688,-122.432755,POINT (-122.432755 37.77688),Alamo Square
+27,6344,Burton (Phillip And Sala) Academic High School,public,1033.0,5.0,4.0,San Francisco Unified School District,"400 Mansell Street, 
+San Francisco, CA  94134",37.7207,-122.40507,POINT (-122.40507 37.7207),Portola
+28,16586,Calvary Baptist Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"5655 Mission Street, 
+San Francisco, CA  94112",37.710278,-122.447685,POINT (-122.447685 37.710278),Crocker Amazon
+29,6346,Carmichael (Bessie)/Fec,public,612.0,3.0,4.0,San Francisco Unified School District,"375 Seventh Street, 
+San Francisco, CA  94103",37.775856,-122.40673999999999,POINT (-122.40674 37.775856),South of Market
+30,6347,Carver (George Washington) Elementary School,public,220.0,2.0,3.0,San Francisco Unified School District,"1360 Oakdale Avenue, 
+San Francisco, CA  94124",37.732403000000005,-122.38638,POINT (-122.38638 37.73240300000001),Bayview
+31,8443,Cathedral School For Boys,private,263.0,5.396694214876033,4.0,,"1275 Sacramento Street, 
+San Francisco, CA  94108",37.792393,-122.413895,POINT (-122.413895 37.792393),Nob Hill
+32,8576,Challenge To Learning,private,379.1877551020408,5.396694214876033,2.0,,"924 Balboa Street, 
+San Francisco, CA  94118",37.777,-122.4686,POINT (-122.4686 37.777),Inner Richmond
+33,6348,Chavez (Cesar) Elementary School,public,429.0,1.0,3.0,San Francisco Unified School District,"825 Shotwell Street, 
+San Francisco, CA  94110",37.75488,-122.41541000000001,POINT (-122.41541 37.75488),Mission
+34,10396,Children's Day School,private,472.0,5.396694214876033,4.0,,"333 Dolores Street, 
+San Francisco, CA  94110",37.7639,-122.42511999999999,POINT (-122.42512 37.7639),Mission Dolores
+35,6349,Chin (John Yehall) Elementary School,public,275.0,9.0,4.0,San Francisco Unified School District,"350 Broadway Street, 
+San Francisco, CA  94133",37.79831,-122.40316999999999,POINT (-122.40317 37.79831),North Beach
+36,10205,Chinese American International School,private,523.0,5.396694214876033,4.0,,"150 Oak Street, 
+San Francisco, CA  94102",37.77534,-122.42175,POINT (-122.42175 37.77534),Civic Center
+37,6350,Chinese Education Center,public,77.0,5.396694214876033,5.0,San Francisco Unified School District,"657 Merchant Street, 
+San Francisco, CA  94111",37.794907,-122.40413999999998,POINT (-122.40414 37.794907),Chinatown
+38,25096,Chinese Immersion School At Deavila,public,405.0,10.0,5.0,San Francisco Unified School District,"1250 Waller Street, 
+San Francisco, CA  94117",37.769463,-122.44429,POINT (-122.44429 37.769463),Haight Ashbury
+39,13756,City Arts And Tech High School,charter,260.0,4.0,4.0,San Francisco Unified School District,"325 La Grande Avenue, 
+San Francisco, CA  94112",37.720005,-122.42553000000001,POINT (-122.42553 37.720005),Excelsior
+40,6351,Clarendon Alternative Elementary School,public,552.0,8.0,5.0,San Francisco Unified School District,"500 Clarendon Avenue, 
+San Francisco, CA  94131",37.752990000000004,-122.45611000000001,POINT (-122.45611 37.75299),Forest Knolls
+41,6352,Cleveland Elementary School,public,362.0,2.0,4.0,San Francisco Unified School District,"455 Athens Street, 
+San Francisco, CA  94112",37.720734,-122.42903999999999,POINT (-122.42904 37.720734),Excelsior
+42,6353,Cobb (William L.) Elementary School,public,148.0,2.0,5.0,San Francisco Unified School District,"2725 California Street, 
+San Francisco, CA  94115",37.7882,-122.43919,POINT (-122.43919 37.7882),Lower Pacific Heights
+43,26288,Coming Of Age Christian Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"1763 Newcomb Avenue, 
+San Francisco, CA  94124",37.736774,-122.39299999999999,POINT (-122.393 37.736774),Bayview
+45,16588,Convent Of The Sacred Heart Elementary School,private,379.1877551020408,5.396694214876033,4.0,,"2222 Broadway Street, 
+San Francisco, CA  94115",37.794796000000005,-122.43413500000001,POINT (-122.434135 37.79479600000001),Pacific Heights
+46,24219,Convent Of The Sacred Heart Elementary School,private,377.0,5.396694214876033,4.183673469387755,,"2222 Broadway Street, 
+San Francisco, CA  94115",37.79443,-122.43393,POINT (-122.43393 37.79443),Pacific Heights
+47,9643,Convent Of The Sacred Heart High School,private,222.0,5.396694214876033,4.0,,"2222 Broadway Street, 
+San Francisco, CA  94115",37.794796000000005,-122.43413500000001,POINT (-122.434135 37.79479600000001),Pacific Heights
+48,24003,Cornerstone Academy - Cambridge Campus,private,221.0,5.396694214876033,3.0,,"501 Cambridge Street, 
+San Francisco, CA  94134",37.724920000000004,-122.417244,POINT (-122.417244 37.72492),University Mound
+49,13189,Cornerstone Academy-Lawton Campus,private,379.1877551020408,5.396694214876033,5.0,,"1925 Lawton Street, 
+San Francisco, CA  94122",37.75742,-122.48366499999999,POINT (-122.483665 37.75742),Outer Sunset
+50,9438,Cornerstone Academy-Silver Campus,private,698.0,5.396694214876033,4.0,,"801 Silver Avenue, 
+San Francisco, CA  94134",37.729637,-122.41881000000001,POINT (-122.41881 37.729637),University Mound
+51,8096,Corpus Christi School,private,379.1877551020408,5.396694214876033,4.0,,"75 Francis St, 
+San Francisco, CA  94112",37.72703,-122.43526000000001,POINT (-122.43526 37.72703),Mission Terrace
+52,16589,Cow Hollow Kindergarten,private,379.1877551020408,5.396694214876033,5.0,,"2521 Scott Street, 
+San Francisco, CA  94115",37.793324,-122.44012,POINT (-122.44012 37.793324),Pacific Heights
+53,6355,Creative Arts Charter School,charter,440.0,9.0,4.0,San Francisco Unified School District,"1601 Turk Street, 
+San Francisco, CA  94115",37.78003,-122.43543000000001,POINT (-122.43543 37.78003),Western Addition
+54,6451,Daniel Webster Elementary School,public,289.0,3.0,4.0,San Francisco Unified School District,"465 Missouri Street, 
+San Francisco, CA  94107",37.760490000000004,-122.39623,POINT (-122.39623 37.76049),Potrero Hill
+55,15193,De Marillac Academy,private,118.0,5.396694214876033,3.0,,"175 Golden Gate Avenue, 
+San Francisco, CA  94102",37.781659999999995,-122.41334499999999,POINT (-122.413345 37.78166),Tenderloin
+56,6358,Denman (James) Middle School,public,716.0,4.0,4.0,San Francisco Unified School District,"241 Oneida Avenue, 
+San Francisco, CA  94112",37.721992,-122.44331000000001,POINT (-122.44331 37.721992),Cayuga
+57,25564,Discovery Center School,private,18.0,5.396694214876033,3.0,,"1442 Fulton Street, 
+San Francisco, CA  94117",37.776835999999996,-122.440605,POINT (-122.440605 37.776836),Western Addition
+58,6359,Downtown High School,public,167.0,5.396694214876033,5.0,San Francisco Unified School District,"693 Vermont Street, 
+San Francisco, CA  94107",37.760940000000005,-122.40406999999999,POINT (-122.40407 37.76094000000001),Potrero Hill
+59,6360,Drew (Charles) College Preparatory Academy,public,208.0,1.0,3.0,San Francisco Unified School District,"50 Pomona Avenue, 
+San Francisco, CA  94124",37.731777,-122.39355,POINT (-122.39355 37.731777),Silver Terrace
+60,9538,Drew School,private,280.0,5.396694214876033,5.0,,"2901 California Street, 
+San Francisco, CA  94115",37.7876,-122.4424,POINT (-122.4424 37.7876),Lower Pacific Heights
+61,8097,Ecole Notre Dame Des Victoires,private,300.0,5.396694214876033,4.0,,"659 Pine Street, 
+San Francisco, CA  94108",37.79124,-122.40666999999999,POINT (-122.40667 37.79124),Chinatown
+62,8806,Edgewood Center For Children & Families,private,44.0,5.396694214876033,4.183673469387755,,"1801 Vicente Street, 
+San Francisco, CA  94116",37.737984000000004,-122.48626000000002,POINT (-122.48626 37.737984),Parkside
+63,12048,Edison Charter Academy,charter,700.0,5.0,4.0,San Francisco Unified School District,"3531 22nd Street, 
+San Francisco, CA  94114",37.754936,-122.4262,POINT (-122.4262 37.754936),Dolores Heights
+65,6362,El Dorado Elementary School,public,236.0,1.0,5.0,San Francisco Unified School District,"70 Delta Street, 
+San Francisco, CA  94134",37.719265,-122.40673000000001,POINT (-122.40673 37.719265),Visitacion Valley
+66,8098,Epiphany Elementary School,private,400.0,5.396694214876033,3.0,,"600 Italy Avenue, 
+San Francisco, CA  94112",37.71587,-122.43468999999999,POINT (-122.43469 37.71587),Excelsior
+67,9436,Erikson School,private,379.1877551020408,5.396694214876033,5.0,,"1325 Evans Avenue, 
+San Francisco, CA  94124",37.77556,-122.484276,POINT (-122.484276 37.77556),Outer Richmond
+68,13372,Eureka Learning Center,private,379.1877551020408,5.396694214876033,5.0,,"464 Diamond Street, 
+San Francisco, CA  94114",37.754985999999995,-122.43685,POINT (-122.43685 37.754986),Eureka Valley
+69,6363,Everett Middle School,public,533.0,4.0,3.0,San Francisco Unified School District,"450 Church Street, 
+San Francisco, CA  94114",37.763668,-122.42858000000001,POINT (-122.42858 37.763668),Mission Dolores
+70,22355,Everyday Magic,private,379.1877551020408,5.396694214876033,5.0,,"Po Box 320026, 
+San Francisco, CA  94132",37.718140000000005,-122.48635,POINT (-122.48635 37.71814000000001),Lakeshore
+71,6364,Fairmount Elementary School,public,380.0,2.0,4.0,San Francisco Unified School District,"65 Chenery Street, 
+San Francisco, CA  94131",37.740658,-122.42558999999999,POINT (-122.42559 37.740658),Fairmount
+72,16863,Feinstein (Dianne) Elementary School,public,512.0,7.0,4.0,San Francisco Unified School District,"2550 25th Avenue, 
+San Francisco, CA  94116",37.739964,-122.48185,POINT (-122.48185 37.739964),Parkside
+73,24793,Five Keys Adult School (Sf Sheriff's),charter,163.0,5.396694214876033,5.0,San Francisco Unified School District,"70 Oak Grove, 
+San Francisco, CA  94107",37.777159999999995,-122.40215,POINT (-122.40215 37.77715999999999),South of Market
+74,24794,Five Keys Independence High School (Sf Sheriff's),charter,1925.0,5.396694214876033,4.183673469387755,San Francisco Unified School District,"70 Oak Grove, 
+San Francisco, CA  94107",37.77717,-122.40213999999999,POINT (-122.40214 37.77717),South of Market
+75,6366,Flynn (Leonard R.) Elementary School,public,437.0,2.0,4.0,San Francisco Unified School District,"3125 Cesar Chavez Street, 
+San Francisco, CA  94110",37.74819,-122.41203,POINT (-122.41203 37.74819),Bernal Heights
+76,6367,Francisco Middle School,public,572.0,7.0,4.0,San Francisco Unified School District,"2190 Powell Street, 
+San Francisco, CA  94133",37.804817,-122.41168,POINT (-122.41168 37.804817),North Beach
+77,9121,French American International School,private,379.1877551020408,5.396694214876033,4.0,,"150 Oak Street, 
+San Francisco, CA  94102",37.77534,-122.42175,POINT (-122.42175 37.77534),Civic Center
+78,26290,Fusion Academy San Francisco,private,55.0,5.396694214876033,3.0,,"1160 Battery Street, 
+San Francisco, CA  94133",37.797109999999996,-122.40416,POINT (-122.40416 37.79711),North Beach
+79,6369,Galileo High School,public,1890.0,8.0,5.0,San Francisco Unified School District,"1150 Francisco Street, 
+San Francisco, CA  94109",37.803402,-122.42408,POINT (-122.42408 37.803402),Russian Hill
+80,6370,Garfield Elementary School,public,223.0,8.0,4.0,San Francisco Unified School District,"420 Filbert Street, 
+San Francisco, CA  94133",37.80177,-122.40673000000001,POINT (-122.40673 37.80177),Telegraph Hill
+81,6371,Gateway High School,charter,489.0,7.0,4.0,San Francisco Unified School District,"1430 Scott Street, 
+San Francisco, CA  94115",37.783221999999995,-122.43701999999999,POINT (-122.43702 37.78322199999999),Western Addition
+82,25633,Gateway Middle School,charter,313.0,6.0,5.0,San Francisco Unified School District,"1512 Golden Gate Avenue, 
+San Francisco, CA  94115",37.779438,-122.436,POINT (-122.436 37.779438),Western Addition
+83,31679,Gavin Academy,private,20.0,5.396694214876033,4.183673469387755,,"100 Pine St Suite 1250, 
+San Francisco, CA  94111",37.792534,-122.398895,POINT (-122.398895 37.792534),Financial District
+84,25492,German International School of Silicon Valley - San Francisco Campus,private,88.0,5.396694214876033,5.0,,"4 Funston Avenue (Bldg 4, 5 & 8), 
+San Francisco, CA  94129",37.800022,-122.45553600000001,POINT (-122.455536 37.800022),Presidio National Park
+85,6372,Giannini (A.P.) Middle School,public,1214.0,9.0,4.0,San Francisco Unified School District,"3151 Ortega Street, 
+San Francisco, CA  94122",37.751427,-122.49701999999999,POINT (-122.49702 37.751427),Outer Sunset
+86,6373,Glen Park Elementary School,public,344.0,4.0,4.0,San Francisco Unified School District,"151 Lippard Avenue, 
+San Francisco, CA  94131",37.733109999999996,-122.43608,POINT (-122.43608 37.73311),Glen Park
+87,31533,Golden Bridges School,private,90.0,5.396694214876033,4.183673469387755,,"65 Ocean Avenue, 
+San Francisco, CA  94112",37.723125,-122.43809499999999,POINT (-122.438095 37.723125),Cayuga
+88,6375,Grattan Elementary School,public,395.0,8.0,5.0,San Francisco Unified School District,"165 Grattan Street, 
+San Francisco, CA  94117",37.76386,-122.45052,POINT (-122.45052 37.76386),Ashbury Heights
+89,6376,Guadalupe Elementary School,public,451.0,3.0,4.0,San Francisco Unified School District,"859 Prague Street, 
+San Francisco, CA  94112",37.710438,-122.43441000000001,POINT (-122.43441 37.710438),Crocker Amazon
+90,8688,"Hamlin, The",private,410.0,5.396694214876033,5.0,,"2120 Broadway Street, 
+San Francisco, CA  94115",37.79489,-122.43243000000001,POINT (-122.43243 37.79489),Pacific Heights
+91,6377,Harte (Bret) Elementary School,public,178.0,1.0,3.0,San Francisco Unified School District,"1035 Gilman Avenue, 
+San Francisco, CA  94124",37.71861,-122.38888999999999,POINT (-122.38889 37.71861),Bret Harte
+92,8774,Hergl,private,8.0,5.396694214876033,4.183673469387755,,"1570 Greenwich Street, 
+San Francisco, CA  94123",37.80037,-122.42577,POINT (-122.42577 37.80037),Union Street
+93,6379,Hillcrest Elementary School,public,462.0,4.0,4.0,San Francisco Unified School District,"810 Silver Avenue, 
+San Francisco, CA  94134",37.729027,-122.41923999999999,POINT (-122.41924 37.729027),University Mound
+96,8936,Hillwood Academic Day School,private,379.1877551020408,5.396694214876033,4.0,,"2521 Scott Street, 
+San Francisco, CA  94115",37.793324,-122.44012,POINT (-122.44012 37.793324),Pacific Heights
+97,8099,Holy Name Elementary School,private,375.0,5.396694214876033,4.0,,"1560 40th Avenue, 
+San Francisco, CA  94122",37.757754999999996,-122.49905,POINT (-122.49905 37.757755),Outer Sunset
+98,6378,Hoover (Herbert) Middle School,public,977.0,6.0,4.0,San Francisco Unified School District,"2290 14th Avenue, 
+San Francisco, CA  94116",37.74535,-122.47031000000001,POINT (-122.47031 37.74535),Golden Gate Heights
+99,8100,Immaculate Conception Academy,private,324.0,5.396694214876033,4.0,,"3625 24th Street, 
+San Francisco, CA  94110",37.751858,-122.42352,POINT (-122.42352 37.751858),Dolores Heights
+100,11136,Independence High School,public,201.0,3.0,5.0,San Francisco Unified School District,"1350 7th Avenue, 
+San Francisco, CA  94122",37.763245,-122.46382,POINT (-122.46382 37.763245),Inner Sunset
+101,6384,Jefferson Elementary School,public,511.0,8.0,5.0,San Francisco Unified School District,"1725 Irving Street, 
+San Francisco, CA  94122",37.763554,-122.47635,POINT (-122.47635 37.763554),Inner Sunset
+102,24308,Jewish Community High School Of The Bay,private,157.0,5.396694214876033,5.0,,"1835 Ellis Street, 
+San Francisco, CA  94115",37.781665999999994,-122.43645,POINT (-122.43645 37.78166599999999),Western Addition
+103,12283,Jordan (June) School For Equity,public,258.0,2.0,4.0,San Francisco Unified School District,"325 La Grande Avenue, 
+San Francisco, CA  94112",37.719997,-122.4255,POINT (-122.4255 37.719997),Excelsior
+104,10089,Joshua Marie Cameron Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"3801 3rd Street, 
+San Francisco, CA  94124",37.741543,-122.38726000000001,POINT (-122.38726 37.741543),Bayview
+105,12638,KIPP Bayview Academy,charter,288.0,5.0,4.0,San Francisco Unified School District,"1060 Key Avenue, 
+San Francisco, CA  94124",37.71903,-122.39611000000001,POINT (-122.39611 37.71903),Bret Harte
+106,12639,KIPP San Francisco Bay Academy,charter,374.0,6.0,5.0,San Francisco Unified School District,"1430 Scott Street, 
+San Francisco, CA  94115",37.78313,-122.43773,POINT (-122.43773 37.78313),Western Addition
+107,27281,KIPP San Francisco College Preparatory,charter,312.0,7.0,4.183673469387755,San Francisco Unified School District,"1195 Hudson Avenue, 
+San Francisco, CA  94124",37.732376,-122.38235,POINT (-122.38235 37.732376),Bayview
+108,8684,Katherine Delmar Burke School,private,400.0,5.396694214876033,4.0,,"7070 California Street, 
+San Francisco, CA  94121",37.783684,-122.49302,POINT (-122.49302 37.783684),Seacliff
+109,11542,Katherine Michiels School,private,84.0,5.396694214876033,4.0,,"1335 Guerrero Street, 
+San Francisco, CA  94110",37.74984,-122.4224,POINT (-122.4224 37.74984),Mission
+110,6385,Key (Francis Scott) Elementary School,public,531.0,9.0,5.0,San Francisco Unified School District,"1530 43rd Avenue, 
+San Francisco, CA  94122",37.758156,-122.50249,POINT (-122.50249 37.758156),Outer Sunset
+111,6435,King (Starr) Elementary School,public,335.0,5.0,4.0,San Francisco Unified School District,"1215 Carolina Street, 
+San Francisco, CA  94107",37.752765999999994,-122.39935,POINT (-122.39935 37.75276599999999),Potrero Hill
+112,6386,King Jr. (Martin Luther) Academic Middle School,public,509.0,4.0,3.0,San Francisco Unified School District,"350 Girard Street, 
+San Francisco, CA  94134",37.727947,-122.40491000000002,POINT (-122.40491 37.727947),Portola
+113,8793,"Kittredge, Inc.",private,86.0,5.396694214876033,5.0,,"2355 Lake Street, 
+San Francisco, CA  94121",37.785507,-122.484955,POINT (-122.484955 37.785507),Lake Street
+114,26291,Krouzian Zekarian Armenian School,private,379.1877551020408,5.396694214876033,4.183673469387755,,"825 Brotherhood Way, 
+San Francisco, CA  94132",37.713943,-122.47831000000001,POINT (-122.47831 37.713943),Lakeshore
+115,9437,Kzv Armenian School,private,138.0,5.396694214876033,4.0,,"825 Brotherhood Way, 
+San Francisco, CA  94132",37.713943,-122.47831000000001,POINT (-122.47831 37.713943),Lakeshore
+116,25534,La Scuola International School ,private,250.0,5.396694214876033,5.0,,"Preschool Campus: 728 20th St;   K-8 Campus 735 Fell Street, 
+San Francisco, CA  94107",37.760647,-122.38921,POINT (-122.38921 37.760647),Dogpatch
+117,6387,Lafayette Elementary School,public,543.0,9.0,5.0,San Francisco Unified School District,"4545 Anza Street, 
+San Francisco, CA  94121",37.777607,-122.49688,POINT (-122.49688 37.777607),Outer Richmond
+118,6388,Lakeshore Alternative Elementary School,public,487.0,4.0,5.0,San Francisco Unified School District,"220 Middlefield Drive, 
+San Francisco, CA  94132",37.730602000000005,-122.48615,POINT (-122.48615 37.730602),Lakeshore
+119,6389,Lau (Gordon J.) Elementary School,public,664.0,7.0,5.0,San Francisco Unified School District,"950 Clay Street, 
+San Francisco, CA  94108",37.79398,-122.40868,POINT (-122.40868 37.79398),Chinatown
+120,6390,Lawton Alternative Elementary School,public,601.0,10.0,4.0,San Francisco Unified School District,"1570 31st Avenue, 
+San Francisco, CA  94122",37.757954,-122.48958,POINT (-122.48958 37.757954),Outer Sunset
+121,6391,Leadership High School,charter,261.0,2.0,4.0,San Francisco Unified School District,"350 Seneca Avenue, 
+San Francisco, CA  94112",37.721527,-122.44556999999999,POINT (-122.44557 37.721527),Cayuga
+122,6392,Lick (James) Middle School,public,599.0,2.0,4.0,San Francisco Unified School District,"1220 Noe Street, 
+San Francisco, CA  94114",37.749542,-122.43175,POINT (-122.43175 37.749542),Noe Valley
+123,8690,Lick-Wilmerding High School,private,490.0,5.396694214876033,4.0,,"755 Ocean Avenue, 
+San Francisco, CA  94112",37.72235,-122.44892,POINT (-122.44892 37.72235),Oceanview
+124,6393,Life Learning Academy Charter,charter,22.0,5.396694214876033,4.0,San Francisco Unified School District,"651 Eighth Street, Building 229 Treasure Island, 
+San Francisco, CA  94130",37.77091,-122.40478999999999,POINT (-122.40479 37.77091),Showplace Square
+125,6394,Lilienthal (Claire) Elementary School,public,678.0,10.0,4.0,San Francisco Unified School District,"3630 Divisadero Street, 
+San Francisco, CA  94123",37.803191999999996,-122.4435,POINT (-122.4435 37.803192),Marina
+126,6395,Lincoln (Abraham) High School,public,2046.0,8.0,5.0,San Francisco Unified School District,"2162 24th Avenue, 
+San Francisco, CA  94116",37.747257,-122.48132,POINT (-122.48132 37.747257),Parkside
+127,10622,Lisa Kampner Hebrew Academy,private,37.0,5.396694214876033,3.0,,"645 14th Avenue, 
+San Francisco, CA  94118",37.776123,-122.47286000000001,POINT (-122.47286 37.776123),Inner Richmond
+128,8489,Live Oak School,private,400.0,5.396694214876033,5.0,,"1555 Mariposa Street, 
+San Francisco, CA  94107",37.76354,-122.39906,POINT (-122.39906 37.76354),Potrero Hill
+129,11441,Living Hope Christian,private,379.1877551020408,5.396694214876033,5.0,,"1209 Geneva Avenue, 
+San Francisco, CA  94112",37.7142,-122.436,POINT (-122.436 37.7142),Excelsior
+130,6396,Longfellow Elementary School,public,570.0,4.0,4.0,San Francisco Unified School District,"755 Morse Street, 
+San Francisco, CA  94112",37.71046,-122.44769,POINT (-122.44769 37.71046),Crocker Amazon
+132,6397,Lowell High School,public,2685.0,10.0,4.0,San Francisco Unified School District,"1101 Eucalyptus Drive, 
+San Francisco, CA  94132",37.731045,-122.48355,POINT (-122.48355 37.731045),Lakeshore
+133,6398,Malcolm X Academy,public,85.0,3.0,5.0,San Francisco Unified School District,"350 Harbor Road, 
+San Francisco, CA  94124",37.733734000000005,-122.38061,POINT (-122.38061 37.73373400000001),Bayview
+134,8809,Maria Montessori School,private,379.1877551020408,5.396694214876033,5.0,,"678 Portola Dr, 
+San Francisco, CA  94127",37.74501,-122.45343000000001,POINT (-122.45343 37.74501),Laguna Honda
+135,25528,Marin Preparatory School,private,145.0,5.396694214876033,5.0,,"117 Diamond Street, 
+San Francisco, CA  94114",37.760220000000004,-122.4369,POINT (-122.4369 37.76022),Castro
+136,6400,Marina Middle School,public,779.0,7.0,4.0,San Francisco Unified School District,"3500 Fillmore Street, 
+San Francisco, CA  94123",37.80167,-122.43636000000001,POINT (-122.43636 37.80167),Marina
+137,6404,Marshall (Thurgood) High School,public,638.0,2.0,4.0,San Francisco Unified School District,"45 Conkling Street, 
+San Francisco, CA  94124",37.735718,-122.40188,POINT (-122.40188 37.735718),Silver Terrace
+138,6403,Marshall Elementary School,public,251.0,3.0,4.0,San Francisco Unified School District,"1575 15th Street, 
+San Francisco, CA  94103",37.766678000000006,-122.41909,POINT (-122.41909 37.76667800000001),Mission
+141,6407,McKinley Elementary School,public,384.0,7.0,5.0,San Francisco Unified School District,"1025 14th Street, 
+San Francisco, CA  94114",37.767227,-122.43659,POINT (-122.43659 37.767227),Corona Heights
+142,6406,Mccoppin (Frank) Elementary School,public,218.0,7.0,4.0,San Francisco Unified School District,"651 Sixth Avenue, 
+San Francisco, CA  94118",37.776283,-122.46401000000002,POINT (-122.46401 37.776283),Inner Richmond
+143,9764,Meadows-Livingstone School,private,19.0,5.396694214876033,5.0,,"1499 Potrero Avenue, 
+San Francisco, CA  94110",37.749603,-122.40506,POINT (-122.40506 37.749603),Potrero Hill
+144,8103,Mercy High School,private,395.0,5.396694214876033,4.0,,"3250 19th Avenue, 
+San Francisco, CA  94132",37.729416,-122.47386999999999,POINT (-122.47387 37.729416),Stonestown
+145,6408,Milk (Harvey) Civil Rights Elementary School,public,238.0,2.0,4.0,San Francisco Unified School District,"4235 19th Street, 
+San Francisco, CA  94114",37.759147999999996,-122.43633999999999,POINT (-122.43634 37.759148),Eureka Valley
+147,6409,Miraloma Elementary School,public,390.0,8.0,5.0,San Francisco Unified School District,"175 Omar Way, 
+San Francisco, CA  94127",37.739307000000004,-122.45021000000001,POINT (-122.45021 37.739307),Miraloma Park
+148,8104,Mission Dolores Academy,private,258.0,5.396694214876033,4.0,,"3371 16th Street, 
+San Francisco, CA  94114",37.7642,-122.42843,POINT (-122.42843 37.7642),Mission Dolores
+149,6410,Mission Education Center,public,131.0,1.0,5.0,San Francisco Unified School District,"1670 Noe Street, 
+San Francisco, CA  94131",37.742283,-122.43106,POINT (-122.43106 37.742283),Noe Valley
+150,6411,Mission High School,public,1058.0,1.0,4.0,San Francisco Unified School District,"3750 18th Street, 
+San Francisco, CA  94114",37.761402000000004,-122.42728000000001,POINT (-122.42728 37.761402),Mission Dolores
+151,25813,Mission Preparatory School,charter,426.0,10.0,5.0,San Francisco Unified School District,"1050 York Street, 
+San Francisco, CA  94110",37.75544,-122.40857,POINT (-122.40857 37.75544),Mission
+152,6412,Monroe Elementary School,public,511.0,5.0,4.0,San Francisco Unified School District,"260 Madrid Street, 
+San Francisco, CA  94112",37.725224,-122.43012,POINT (-122.43012 37.725224),Excelsior
+153,12920,Montessori House of Children School,private,110.0,5.396694214876033,4.0,,"1187 Franklin Street, 
+San Francisco, CA  94109",37.78529,-122.42329,POINT (-122.42329 37.78529),Cathedral Hill
+154,6413,Moscone (George R.) Elementary School,public,370.0,5.0,4.0,San Francisco Unified School District,"2576 Harrison Street, 
+San Francisco, CA  94110",37.756240000000005,-122.4123,POINT (-122.4123 37.75624000000001),Mission
+155,31537,Mt. Vernon Christian Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"59 Caine Avenue, 
+San Francisco, CA  94112",37.71714,-122.450356,POINT (-122.450356 37.71714),Oceanview
+156,17359,Muhammad University of Islam,private,379.1877551020408,5.396694214876033,5.0,,"5048 Third Street, 
+San Francisco, CA  94124",37.732788,-122.39178000000001,POINT (-122.39178 37.732788),Silver Terrace
+157,6414,Muir (John) Elementary School,public,265.0,4.0,4.0,San Francisco Unified School District,"380 Webster Street, 
+San Francisco, CA  94117",37.77369,-122.42908999999999,POINT (-122.42909 37.77369),Lower Haight
+158,31695,My City School,private,9.0,5.396694214876033,5.0,,"855 27th ave, San Francisco, CA 94121, 
+San Francisco, CA  94114",37.764324,-122.43841,POINT (-122.43841 37.764324),Corona Heights
+159,6415,New Traditions Elementary School,public,260.0,9.0,4.0,San Francisco Unified School District,"2049 Grove Street, 
+San Francisco, CA  94117",37.77431,-122.45031999999999,POINT (-122.45032 37.77431),Panhandle
+160,6417,O'connell (John) High School,public,319.0,2.0,4.0,San Francisco Unified School District,"2355 Folsom Street, 
+San Francisco, CA  94110",37.759632,-122.41468,POINT (-122.41468 37.759632),Mission
+161,8470,Oakes Children's Center,private,18.0,5.396694214876033,5.0,,"1550 Treat Avenue, 
+San Francisco, CA  94110",37.74593,-122.41268000000001,POINT (-122.41268 37.74593),Bernal Heights
+162,26292,Oaks Christian Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"135 Evelyn Way, 
+San Francisco, CA  94127",37.743107,-122.45257,POINT (-122.45257 37.743107),Miraloma Park
+163,13053,Olympia Institute,private,379.1877551020408,5.396694214876033,3.0,,"950 Clement Street, 
+San Francisco, CA  94118",37.782726000000004,-122.469505,POINT (-122.469505 37.782726),Inner Richmond
+164,26293,One Fifty Parker Avenue School,private,379.1877551020408,5.396694214876033,4.183673469387755,,"150 Parker Avenue, 
+San Francisco, CA  94118",37.782818,-122.4541,POINT (-122.4541 37.782818),Laurel Heights / Jordan Park
+165,32188,One Purpose,charter,72.0,1.0,4.183673469387755,Sbe - Onepurpose School District,"948 Hollister Avenue, 
+San Francisco, CA  94124",37.71833,-122.38988,POINT (-122.38988 37.71833),Bret Harte
+166,6418,Ortega (Jose) Elementary School,public,393.0,7.0,5.0,San Francisco Unified School District,"400 Sargent Street, 
+San Francisco, CA  94132",37.716167,-122.46625,POINT (-122.46625 37.716167),Merced Heights
+167,8105,Our Lady Of The Visitacion Elementary School,private,258.0,5.396694214876033,4.0,,"785 Sunnydale Avenue, 
+San Francisco, CA  94134",37.7094,-122.40916000000001,POINT (-122.40916 37.7094),Visitacion Valley
+168,6419,Parker (Jean) Elementary School,public,267.0,6.0,4.0,San Francisco Unified School District,"840 Broadway Street, 
+San Francisco, CA  94133",37.79732,-122.4111,POINT (-122.4111 37.79732),Russian Hill
+169,6420,Parks (Rosa) Elementary School,public,461.0,4.0,5.0,San Francisco Unified School District,"1501 O'farrell Street, 
+San Francisco, CA  94115",37.78368,-122.42945,POINT (-122.42945 37.78368),Western Addition
+171,6421,Peabody (George) Elementary School,public,276.0,9.0,5.0,San Francisco Unified School District,"251 Sixth Avenue, 
+San Francisco, CA  94118",37.783947,-122.46456,POINT (-122.46456 37.783947),Inner Richmond
+173,8857,Presidio Hill School,private,220.0,5.396694214876033,4.0,,"3839 Washington St, 
+San Francisco, CA  94118",37.788845,-122.45624,POINT (-122.45624 37.788845),Presidio Heights
+174,25505,Presidio Knolls School,private,380.0,5.396694214876033,5.0,,"250 10th Street, 
+San Francisco, CA  94103",37.772945,-122.41362,POINT (-122.41362 37.772945),South of Market
+175,6423,Presidio Middle School,public,1100.0,8.0,4.0,San Francisco Unified School District,"450 30th Avenue, 
+San Francisco, CA  94121",37.78083,-122.4901,POINT (-122.4901 37.78083),Outer Richmond
+176,6424,Redding Elementary School,public,255.0,6.0,4.0,San Francisco Unified School District,"1421 Pine Street, 
+San Francisco, CA  94109",37.789726,-122.41921,POINT (-122.41921 37.789726),Lower Nob Hill
+177,6425,Revere (Paul) Elementary School,public,462.0,1.0,4.0,San Francisco Unified School District,"555 Tompkins Avenue, 
+San Francisco, CA  94110",37.737140000000004,-122.41317,POINT (-122.41317 37.73714),Bernal Heights
+178,9866,Rise Institute,private,34.0,5.396694214876033,4.183673469387755,,"1760 Cesar Chavez Street, Suites Rs, 
+San Francisco, CA  94124",37.750465000000005,-122.39495,POINT (-122.39495 37.75046500000001),Potrero Hill
+180,6426,Rooftop Elementary School,public,586.0,6.0,4.0,San Francisco Unified School District,"443 Burnett Avenue, 
+San Francisco, CA  94131",37.754417,-122.44388000000001,POINT (-122.44388 37.754417),Upper Market
+181,6427,Roosevelt Middle School,public,698.0,9.0,4.0,San Francisco Unified School District,"460 Arguello Boulevard, 
+San Francisco, CA  94118",37.78225,-122.45895,POINT (-122.45895 37.78225),Inner Richmond
+182,15297,Russian American International School,private,64.0,5.396694214876033,5.0,,"3301 Balboa Street, 
+San Francisco, CA  94121",37.77564,-122.49428600000002,POINT (-122.494286 37.77564),Outer Richmond
+183,13785,S.F. County Civic Center Secondary,public,143.0,5.396694214876033,1.0,San Francisco County Office Of Education School District,"727 Golden Gate Avenue, 
+San Francisco, CA  94102",37.78069,-122.42308,POINT (-122.42308 37.78069),Civic Center
+184,11135,S.F. County Opportunity (Hilltop) School,public,56.0,5.396694214876033,1.0,San Francisco County Office Of Education School District,"1325 Florida St, 
+San Francisco, CA  94110",37.75074,-122.4098,POINT (-122.4098 37.75074),Mission
+185,12608,S.F. County Special Education School,public,79.0,5.396694214876033,4.183673469387755,San Francisco County Office Of Education School District,"3045 Santiago St, 
+San Francisco, CA  94116",37.743843,-122.49989,POINT (-122.49989 37.743843),Outer Sunset
+186,25018,S.F. International High School,public,302.0,2.0,4.0,San Francisco Unified School District,"1050 York Street, 
+San Francisco, CA  94110",37.75521,-122.40843999999998,POINT (-122.40844 37.75521),Mission
+187,26526,SIATech at Treasure Island,charter,201.0,5.396694214876033,4.183673469387755,,"351 Avenue H, 
+San Francisco, CA  94130",37.824314,-122.36912,POINT (-122.36912 37.824314),Treasure Island
+188,8108,Sacred Heart Cathedral Preparatory,private,1340.0,5.396694214876033,4.0,,"1055 Ellis Street, 
+San Francisco, CA  94109",37.78326,-122.423515,POINT (-122.423515 37.78326),Cathedral Hill
+189,8109,Saint Anne School,private,347.0,5.396694214876033,4.0,,"1320 14th Avenue, 
+San Francisco, CA  94122",37.76338,-122.47143999999999,POINT (-122.47144 37.76338),Inner Sunset
+190,8131,Saint Vincent De Paul,private,270.0,5.396694214876033,3.0,,"2350 Green Street, 
+San Francisco, CA  94123",37.795864,-122.437836,POINT (-122.437836 37.795864),Cow Hollow
+191,9049,San Francisco Adventist,private,33.0,5.396694214876033,5.0,,"66 Geneva Avenue, 
+San Francisco, CA  94112",37.72175,-122.45111999999999,POINT (-122.45112 37.72175),Oceanview
+192,25509,San Francisco Brightworks,private,88.0,5.396694214876033,5.0,,"360 9th Avenue, 
+San Francisco, CA  94110",37.762190000000004,-122.41019399999999,POINT (-122.410194 37.76219),Mission
+193,8668,San Francisco Christian School,private,240.0,5.396694214876033,4.0,,"25 Whittier Street, 
+San Francisco, CA  94112",37.710068,-122.44773,POINT (-122.44773 37.710068),Crocker Amazon
+194,11493,San Francisco City Academy,private,118.0,5.396694214876033,5.0,,"230 Jones Street, 
+San Francisco, CA  94102",37.783497,-122.41241000000001,POINT (-122.41241 37.783497),Tenderloin
+195,6430,San Francisco Community Alternative School,public,290.0,3.0,4.0,San Francisco Unified School District,"125 Excelsior Avenue, 
+San Francisco, CA  94112",37.725815000000004,-122.43262,POINT (-122.43262 37.725815),Excelsior
+196,14999,San Francisco County Rop School,public,379.1877551020408,5.396694214876033,4.183673469387755,San Francisco County Rop School District,"750 25th Avenue, 
+San Francisco, CA  94121",37.775303,-122.48436000000001,POINT (-122.48436 37.775303),Outer Richmond
+197,9871,San Francisco Day School,private,352.0,5.396694214876033,5.0,,"350 Masonic Avenue, 
+San Francisco, CA  94118",37.778040000000004,-122.44628,POINT (-122.44628 37.77804),Western Addition
+198,31539,San Francisco Expeditionary School,private,379.1877551020408,5.396694214876033,4.183673469387755,,"2960 Broadway Street, 
+San Francisco, CA  94115",37.793186,-122.44588999999999,POINT (-122.44589 37.793186),Pacific Heights
+199,13615,San Francisco Friends School,private,436.0,5.396694214876033,4.0,,"250 Valencia Street, 
+San Francisco, CA  94103",37.76898,-122.422905,POINT (-122.422905 37.76898),Mission Dolores
+200,26289,San Francisco High School of the Arts ,private,41.0,5.396694214876033,4.183673469387755,,"--, 
+San Francisco, CA  94117",37.77053,-122.45283,POINT (-122.45283 37.77053),Haight Ashbury
+201,31540,San Francisco Pacific Academy,private,80.0,5.396694214876033,5.0,,"3301 Balboa Street, 
+San Francisco, CA  94121",37.77564,-122.49428600000002,POINT (-122.494286 37.77564),Outer Richmond
+202,25336,San Francisco Public Montessori School,public,171.0,6.0,4.0,San Francisco Unified School District,"2340 Jackson Street, 
+San Francisco, CA  94115",37.792618,-122.43354,POINT (-122.43354 37.792618),Pacific Heights
+203,8490,"San Francisco School, The",private,281.0,5.396694214876033,5.0,,"300 Gaven Street, 
+San Francisco, CA  94134",37.73278,-122.4117,POINT (-122.4117 37.73278),Portola
+204,25498,San Francisco Schoolhouse,private,60.0,5.396694214876033,5.0,,"301 14th Avenue, 
+San Francisco, CA  94118",37.78217,-122.47321000000001,POINT (-122.47321 37.78217),Inner Richmond
+205,8685,San Francisco University High School,private,400.0,5.396694214876033,5.0,,"3065 Jackson Street, 
+San Francisco, CA  94115",37.790936,-122.44542,POINT (-122.44542 37.790936),Pacific Heights
+206,31018,San Francisco Waldorf High School,private,150.0,5.396694214876033,4.183673469387755,,"470 West Portal Ave., 
+San Francisco, CA  94127",37.735855,-122.47158999999999,POINT (-122.47159 37.735855),West Portal
+207,9265,San Francisco Waldorf School,private,472.0,5.396694214876033,4.0,,"2938 Washington Street, 
+San Francisco, CA  94115",37.790688,-122.44168,POINT (-122.44168 37.790688),Pacific Heights
+208,6428,Sanchez Elementary School,public,281.0,1.0,4.0,San Francisco Unified School District,"325 Sanchez Street, 
+San Francisco, CA  94114",37.76396,-122.4308,POINT (-122.4308 37.76396),Mission Dolores
+209,15298,Sand Paths Academy,private,379.1877551020408,5.396694214876033,5.0,,"1218 South Van Ness Avenue, 
+San Francisco, CA  94110",37.753468,-122.41672,POINT (-122.41672 37.753468),Mission
+210,11496,Seneca Center,private,379.1877551020408,5.396694214876033,4.183673469387755,,"887 Potrero Avenue, 
+San Francisco, CA  94110",37.758465,-122.406525,POINT (-122.406525 37.758465),Potrero Hill
+211,10119,Senior Martin College Preparatory School,private,379.1877551020408,5.396694214876033,5.0,,"P.O. Box 347215, 
+San Francisco, CA  94134",37.720203000000005,-122.40991000000001,POINT (-122.40991 37.72020300000001),Portola
+212,6429,Serra (Junipero) Elementary School,public,290.0,5.0,5.0,San Francisco Unified School District,"625 Holly Park Circle, 
+San Francisco, CA  94110",37.736732,-122.42113,POINT (-122.42113 37.736732),Holly Park
+213,31542,Shalom School Dba Bais Menacehm Yeshiva Day School,private,379.1877551020408,5.396694214876033,4.183673469387755,,"862 28th Avenue, 
+San Francisco, CA  94121",37.773132000000004,-122.48711999999999,POINT (-122.48712 37.773132),Outer Richmond
+214,6431,Sheridan Elementary School,public,215.0,3.0,4.0,San Francisco Unified School District,"431 Capitol Avenue, 
+San Francisco, CA  94112",37.714333,-122.45913,POINT (-122.45913 37.714333),Oceanview
+215,6432,Sherman Elementary School,public,384.0,7.0,4.0,San Francisco Unified School District,"1651 Union Street, 
+San Francisco, CA  94123",37.79827,-122.4262,POINT (-122.4262 37.79827),Union Street
+216,6433,Sloat (Commodore) Elementary School,public,395.0,8.0,4.0,San Francisco Unified School District,"50 Darien Way, 
+San Francisco, CA  94127",37.73188,-122.47096,POINT (-122.47096 37.73188),Balboa Terrace
+219,31536,Spanish Infusión School,private,140.0,5.396694214876033,4.183673469387755,,"117 Diamond Street, 
+San Francisco, CA  94114",37.760155,-122.43687,POINT (-122.43687 37.760155),Castro
+220,16593,"Spectrum Center, Inc",private,379.1877551020408,5.396694214876033,4.183673469387755,,"95 Gough Street, 
+San Francisco, CA  94102",37.774,-122.4224,POINT (-122.4224 37.774),Civic Center
+220,16593,"Spectrum Center, Inc",private,379.1877551020408,5.396694214876033,4.183673469387755,,"95 Gough Street, 
+San Francisco, CA  94102",37.774,-122.4224,POINT (-122.4224 37.774),Lower Haight
+221,6434,Spring Valley Elementary School,public,349.0,5.0,5.0,San Francisco Unified School District,"1451 Jackson Street, 
+San Francisco, CA  94109",37.794403,-122.41899,POINT (-122.41899 37.794403),Nob Hill
+223,8102,St John S Elementary School,private,228.0,5.396694214876033,4.0,,"925 Chenery Street, 
+San Francisco, CA  94131",37.735073,-122.43786999999999,POINT (-122.43787 37.735073),Glen Park
+224,8110,St. Anthony Immaculate Conception,private,113.0,5.396694214876033,4.0,,"299 Precita Avenue, 
+San Francisco, CA  94110",37.747505,-122.41386999999999,POINT (-122.41387 37.747505),Bernal Heights
+225,8111,St. Brendan Elementary School,private,311.0,5.396694214876033,4.0,,"940 Laguna Honda Boulevard, 
+San Francisco, CA  94127",37.7428,-122.45648999999999,POINT (-122.45649 37.7428),Laguna Honda
+226,8112,St. Brigid School,private,255.0,5.396694214876033,4.0,,"2250 Franklin Street, San Francisco, CA 94109, 
+San Francisco, CA  94109",37.795359999999995,-122.42485,POINT (-122.42485 37.79536),Pacific Heights
+227,8113,St. Cecilia Elementary School,private,593.0,5.396694214876033,5.0,,"660 Vicente Street, 
+San Francisco, CA  94116",37.73981,-122.47417,POINT (-122.47417 37.73981),West Portal
+228,8114,St. Charles Elementary School,private,102.0,5.396694214876033,4.0,,"3250 18th Street, 
+San Francisco, CA  94110",37.762245,-122.41643,POINT (-122.41643 37.762245),Mission
+229,8116,St. Elizabeth School,private,379.1877551020408,5.396694214876033,5.0,,"450 Somerset St, 
+San Francisco, CA  94134",37.725956,-122.40732,POINT (-122.40732 37.725956),Portola
+230,8118,St. Finn Barr,private,235.0,5.396694214876033,5.0,,"419 Hearst Avenue, 
+San Francisco, CA  94112",37.730377000000004,-122.44751000000001,POINT (-122.44751 37.730377),Sunnyside
+231,8119,St. Gabriel Elementary School,private,467.0,5.396694214876033,4.0,,"2550 41st Avenue, 
+San Francisco, CA  94116",37.7395,-122.49888,POINT (-122.49888 37.7395),Outer Sunset
+232,8120,St. Ignatius College Preparatory School,private,1478.0,5.396694214876033,5.0,,"2001 37th Avenue, 
+San Francisco, CA  94116",37.74807,-122.49593,POINT (-122.49593 37.74807),Outer Sunset
+233,8121,St. James School,private,170.0,5.396694214876033,4.0,,"321 Fair Oaks Street, 
+San Francisco, CA  94110",37.75132,-122.42395,POINT (-122.42395 37.75132),Dolores Heights
+234,11503,St. John Of San Francisco Orthodox Acade,private,49.0,5.396694214876033,4.0,,"6210 Geary Boulevard, 
+San Francisco, CA  94121",37.780224,-122.48595,POINT (-122.48595 37.780224),Outer Richmond
+235,26294,St. John the Evangelist School,private,250.0,5.396694214876033,5.0,,"925 Chenery Street, 
+San Francisco, CA  94131",37.735073,-122.43786999999999,POINT (-122.43787 37.735073),Glen Park
+236,8122,St. Mary's School,private,225.0,5.396694214876033,5.0,,"838 Kearny Street, 
+San Francisco, CA  94108",37.79589,-122.40486000000001,POINT (-122.40486 37.79589),Chinatown
+237,8157,St. Monica School,private,205.0,5.396694214876033,5.0,,"5950 Geary Blvd, 
+San Francisco, CA  94121",37.780235,-122.4833,POINT (-122.4833 37.780235),Outer Richmond
+238,8123,St. Paul's School,private,215.0,5.396694214876033,3.0,,"1690 Church Street, 
+San Francisco, CA  94131",37.744064,-122.42698999999999,POINT (-122.42699 37.744064),Noe Valley
+239,8125,St. Peter's School,private,281.0,5.396694214876033,5.0,,"1266 Florida Street, 
+San Francisco, CA  94110",37.751670000000004,-122.40999599999999,POINT (-122.409996 37.75167),Mission
+240,8127,St. Philip School,private,223.0,5.396694214876033,4.0,,"665 Elizabeth Street, 
+San Francisco, CA  94114",37.751846,-122.4355,POINT (-122.4355 37.751846),Noe Valley
+241,8128,St. Stephen School,private,306.0,5.396694214876033,3.0,,"401 Eucalyptus Drive, 
+San Francisco, CA  94132",37.730804,-122.47728000000001,POINT (-122.47728 37.730804),Stonestown
+242,8130,St. Thomas More,private,311.0,5.396694214876033,4.0,,"50 Thomas More Way, 
+San Francisco, CA  94132",37.712734000000005,-122.47356,POINT (-122.47356 37.712734),Lakeshore
+243,8129,St. Thomas The Apostle School,private,292.0,5.396694214876033,4.0,,"3801 Balboa Street, 
+San Francisco, CA  94121",37.77527,-122.499664,POINT (-122.499664 37.77527),Outer Richmond
+245,8132,Star Of The Sea School,private,262.0,5.396694214876033,4.0,,"360 9th Avenue, 
+San Francisco, CA  94118",37.781837,-122.46755,POINT (-122.46755 37.781837),Inner Richmond
+246,8885,Sterne School,private,144.0,5.396694214876033,5.0,,"2690 Jackson Street, 
+San Francisco, CA  94115",37.792,-122.43938999999999,POINT (-122.43939 37.792),Pacific Heights
+247,6436,Stevenson (Robert Louis) Elementary School,public,463.0,10.0,4.0,San Francisco Unified School District,"2051 34th Avenue, 
+San Francisco, CA  94116",37.748855999999996,-122.4923,POINT (-122.4923 37.748856),Outer Sunset
+248,24975,Stratford School,private,167.0,5.396694214876033,5.0,,"301 De Montfort Avenue, 
+San Francisco, CA  94112",37.72351,-122.46149399999999,POINT (-122.461494 37.72351),Ingleside
+249,8126,Sts. Peter And Paul K-8,private,225.0,5.396694214876033,4.0,,"660 Filbert Street, 
+San Francisco, CA  94123",37.801437,-122.41045,POINT (-122.41045 37.801437),North Beach
+250,26817,Stuart Hall For Boys,private,370.0,5.396694214876033,5.0,,"2252 Broadway Street, 
+San Francisco, CA  94115",37.794376,-122.43432,POINT (-122.43432 37.794376),Pacific Heights
+251,13500,Stuart Hall High School,private,203.0,5.396694214876033,4.0,,"1715 Octavia Street, 
+San Francisco, CA  94109",37.78863,-122.42728000000001,POINT (-122.42728 37.78863),Japantown
+252,6437,Sunnyside Elementary School,public,385.0,6.0,4.0,San Francisco Unified School District,"250 Foerster Street, 
+San Francisco, CA  94112",37.730309999999996,-122.44878999999999,POINT (-122.44879 37.73031),Sunnyside
+253,6438,Sunset Elementary School,public,403.0,10.0,5.0,San Francisco Unified School District,"1920 41st Avenue, 
+San Francisco, CA  94116",37.750744,-122.49978999999999,POINT (-122.49979 37.750744),Outer Sunset
+254,31698,Sunset Progressive School (Will open: Fall 2015),private,12.0,5.396694214876033,4.183673469387755,,"1320 7th Ave, 
+San Francisco, CA  94122",37.763756,-122.46388999999999,POINT (-122.46389 37.763756),Inner Sunset
+256,6439,Sutro Elementary School,public,259.0,8.0,5.0,San Francisco Unified School District,"235 12th Avenue, 
+San Francisco, CA  94118",37.78393,-122.47102,POINT (-122.47102 37.78393),Inner Richmond
+257,8889,Synergy School,private,190.0,5.396694214876033,4.0,,"1387 Valencia Street, 
+San Francisco, CA  94110",37.7509,-122.4204,POINT (-122.4204 37.7509),Mission
+258,31543,Tahour Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"4 Embarcadero Center, 
+San Francisco, CA  94111",37.794956,-122.39728500000001,POINT (-122.397285 37.794956),Financial District
+259,16596,Tall Ship Education Academy,private,379.1877551020408,5.396694214876033,3.0,,"1600 Holloway Ave Rls Department, 
+San Francisco, CA  94132",37.720936,-122.47723400000001,POINT (-122.477234 37.720936),Parkmerced
+260,6441,Taylor (Edward R.) Elementary School,public,671.0,6.0,4.0,San Francisco Unified School District,"423 Burrows Street, 
+San Francisco, CA  94134",37.728,-122.40733,POINT (-122.40733 37.728),Portola
+261,31544,Teknion Peri Sophia Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"315 Rome Street, 
+San Francisco, CA  94112",37.71586,-122.44798999999999,POINT (-122.44799 37.71586),Outer Mission
+262,6442,Tenderloin Community,public,332.0,3.0,4.0,San Francisco Unified School District,"627 Turk Street, 
+San Francisco, CA  94102",37.782063,-122.41978999999999,POINT (-122.41979 37.782063),Civic Center
+263,16585,The Bay School Of San Francisco,private,355.0,5.396694214876033,5.0,,"35 Keyes Avenue, 
+San Francisco, CA  94129",37.800777000000004,-122.45563999999999,POINT (-122.45564 37.800777),Presidio National Park
+264,8968,The Brandeis School of San Francisco,private,332.0,5.396694214876033,4.0,,"655 Brotherhood Way, 
+San Francisco, CA  94132",37.713284,-122.4756,POINT (-122.4756 37.713284),Lakeshore
+265,8797,The Laurel School,private,65.0,5.396694214876033,4.0,,"350 9th Avenue, 
+San Francisco, CA  94118",37.78192,-122.46676000000001,POINT (-122.46676 37.78192),Inner Richmond
+266,31959,The New School of San Francisco,charter,183.0,5.396694214876033,4.183673469387755,Sbe - The New School Of San Francisco School District,"655 De Haro St, 
+San Francisco, CA  94107",37.761720000000004,-122.40061999999999,POINT (-122.40062 37.76172),Potrero Hill
+267,8545,Town School For Boys,private,408.0,5.396694214876033,4.0,,"2750 Jackson Street, 
+San Francisco, CA  94115",37.791977,-122.4399,POINT (-122.4399 37.791977),Pacific Heights
+268,6445,Ulloa Elementary School,public,514.0,10.0,3.0,San Francisco Unified School District,"2650 42nd Avenue, 
+San Francisco, CA  94116",37.7373,-122.49995,POINT (-122.49995 37.7373),Parkside
+269,8900,Urban School Of San Francisco,private,378.0,5.396694214876033,4.0,,"1563 Page Street, 
+San Francisco, CA  94117",37.770737,-122.44646000000002,POINT (-122.44646 37.770737),Haight Ashbury
+270,6446,Visitacion Valley Elementary School,public,420.0,4.0,4.0,San Francisco Unified School District,"55 Schwerin Street, 
+San Francisco, CA  94134",37.71268,-122.41036000000001,POINT (-122.41036 37.71268),Visitacion Valley
+271,6447,Visitacion Valley Middle School,public,473.0,2.0,4.0,San Francisco Unified School District,"450 Raymond Avenue, 
+San Francisco, CA  94134",37.71477,-122.41248999999999,POINT (-122.41249 37.71477),Visitacion Valley
+272,12735,Voice Of Pentecost Academy,private,379.1877551020408,5.396694214876033,3.0,,"1970 Ocean Avenue, 
+San Francisco, CA  94127",37.726357,-122.46403500000001,POINT (-122.464035 37.726357),Mt. Davidson Manor
+273,9935,Walden Academy,private,379.1877551020408,5.396694214876033,4.183673469387755,,"214 Haight Street, 
+San Francisco, CA  94102",37.7727,-122.4258,POINT (-122.4258 37.7727),Lower Haight
+274,6449,Wallenberg (Raoul) Traditional High School,public,636.0,7.0,3.0,San Francisco Unified School District,"40 Vega Street, 
+San Francisco, CA  94115",37.78017,-122.44575,POINT (-122.44575 37.78017),Anza Vista
+275,6450,Washington (George) High School,public,2054.0,8.0,4.0,San Francisco Unified School District,"600 32nd Avenue, 
+San Francisco, CA  94121",37.777782,-122.49203,POINT (-122.49203 37.777782),Outer Richmond
+276,6452,Wells (Ida B.) High School,public,125.0,5.396694214876033,5.0,San Francisco Unified School District,"1099 Hayes Street, 
+San Francisco, CA  94117",37.77539,-122.43446000000002,POINT (-122.43446 37.77539),Alamo Square
+277,16597,Wen Jian Ying School,private,8.0,5.396694214876033,4.183673469387755,,"259 Judson Avenue, 
+San Francisco, CA  94112",37.72802,-122.44757,POINT (-122.44757 37.72802),Sunnyside
+278,6448,West Portal Elementary School,public,594.0,9.0,5.0,San Francisco Unified School District,"5 Lenox Way, 
+San Francisco, CA  94127",37.743572,-122.46468,POINT (-122.46468 37.743572),West Portal
+279,8619,West Portal Lutheran Elementary School,private,502.0,5.396694214876033,4.0,,"200 Sloat Boulevard, 
+San Francisco, CA  94132",37.735237,-122.47373,POINT (-122.47373 37.735237),West Portal
+281,10102,Woodside International School,private,51.0,5.396694214876033,5.0,,"1555 Irving Street, 
+San Francisco, CA  94122",37.76343,-122.47475,POINT (-122.47475 37.76343),Inner Sunset
+282,25488,Xian Yun Academy of the Arts California,private,40.0,5.396694214876033,4.0,,"1950 Page Street, 
+San Francisco, CA  94103",37.767309999999995,-122.4022,POINT (-122.4022 37.76730999999999),Showplace Square
+283,6454,Yick Wo Elementary School,public,264.0,9.0,5.0,San Francisco Unified School District,"2245 Jones Street, 
+San Francisco, CA  94133",37.802227,-122.41643,POINT (-122.41643 37.802227),Russian Hill
+284,11536,Youth Chance High School,private,379.1877551020408,5.396694214876033,4.183673469387755,,"169 Steuart Street, 
+San Francisco, CA  94105",37.792747,-122.39194499999999,POINT (-122.391945 37.792747),Financial District
+285,6455,Yu (Alice Fong) Elementary School,public,587.0,10.0,4.0,San Francisco Unified School District,"1541 12th Avenue, 
+San Francisco, CA  94122",37.759403000000006,-122.46931000000001,POINT (-122.46931 37.75940300000001),Inner Sunset
+286,8620,Zion Lutheran School,private,151.0,5.396694214876033,5.0,,"495 9th Avenue, 
+San Francisco, CA  94118",37.77924,-122.46763600000001,POINT (-122.467636 37.77924),Inner Richmond

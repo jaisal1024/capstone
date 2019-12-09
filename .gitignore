@@ -7,8 +7,11 @@ env/
 env.sh
 
 # data
-RAW_DATA/
-ENG_DATA/
+RAW_DATA/UNUSED
+*Crime.csv
+
+#development notebooks
+in_development/
 
 # os
 .DS_Store
@@ -23,3 +26,6 @@ Icon?
 
 #Jupyter Notebooks
 *.ipynb_checkpoints
+
+#config file
+*config.json
