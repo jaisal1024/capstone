@@ -1,0 +1,43 @@
+{
+  "all-L": {
+    "model_type": "L",
+    "r2": 0.4638260671940839,
+    "mean_absolute_error": 0.29628996698515814,
+    "median_absolute_error": 0.2017725256608768,
+    "mean_abs_perc_error": 36.24977465029022
+  },
+  "all_no_list_price-L": {
+    "model_type": "L",
+    "r2": 0.4626893708917976,
+    "mean_absolute_error": 0.2960207645987858,
+    "median_absolute_error": 0.20202444441265802,
+    "mean_abs_perc_error": 36.17702464258172
+  },
+  "all-F": {
+    "model_type": "F",
+    "r2": 0.9459234300069457,
+    "mean_absolute_error": 0.07678229052327126,
+    "median_absolute_error": 0.04135130254327362,
+    "mean_abs_perc_error": 7.714333023121968
+  },
+  "all_no_list_price-F": {
+    "model_type": "F",
+    "r2": 0.7598732296079245,
+    "mean_absolute_error": 0.17559300587910265,
+    "median_absolute_error": 0.08228763594097863,
+    "mean_abs_perc_error": 16.021185075401693
+  },
+  "12-10-all-automl": {
+    "r2": 0.9669572425163331,
+    "mean_absolute_error": 0.0741511405465754,
+    "median_absolute_error": 0.039920145619098436,
+    "mean_abs_perc_error": 7.6138036271989025
+  },
+  "hedon-F": {
+    "model_type": "F",
+    "r2": 0.7828017316957556,
+    "mean_absolute_error": 0.17634649794528875,
+    "median_absolute_error": 0.08242477528156973,
+    "mean_abs_perc_error": 16.29035583501948
+  }
+}
