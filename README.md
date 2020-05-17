@@ -16,4 +16,4 @@ This GitHub repository is intended for exploration in my capstone research. I ap
 6. Feature_Visualization_and_Selection
 - These contain notebooks where I performed visualizations, selections, and other techniques on the data.
 7. Data_Cleaner
-- This is a python library I intend to build to automatically clean the data. It is heavily still under development and was not used for the paper submission. 
+- This is a python library I intend to build to automatically clean the data. It is heavily still under development and was not used for the paper submission.
